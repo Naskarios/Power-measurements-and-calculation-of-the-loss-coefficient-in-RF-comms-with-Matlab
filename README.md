@@ -4,7 +4,7 @@ The 2nd lab assignment during the "Wireless Communications" course was about tak
 ## I.Measurements
 The measurements  were taken in the corridor outside the lab.The layout of the lab looked similar to the figure below
 
-![qownnotes-media-VZEZhj](media/qownnotes-media-VZEZhj.png)
+![qownnotes-media-VZEZhj](https://github.com/Naskarios/Power-measurements-and-calculation-of-the-loss-coefficient-in-RF-comms-with-Matlab/blob/main/qownnotes-media-VZEZhj.png)
 
 In the contex of this lab project we used the __spectrum analyzer__(Aim TTi PSA 6005) to take measurements of the power transimitted by the __RF generator__(Agilent N5182A ) equiped with the Amphenol Procom CXL-1/m __antenna_,the signal generated was a simple cosine signal at __900Mhz__ and the power was set to __-1dbm__ .
 
@@ -18,7 +18,7 @@ By using the minimun square method via the __polyfit()__ function in matlab with
 After that we used the coefficient in the model shown below and made our plots.The plots can be viewed by running the Matlab code
 
 
-![qownnotes-media-VATNzY](media/qownnotes-media-VATNzY.png)
+![qownnotes-media-VATNzY](https://github.com/Naskarios/Power-measurements-and-calculation-of-the-loss-coefficient-in-RF-comms-with-Matlab/blob/main/qownnotes-media-VATNzY.png)
 
 
 |No |	DIST (m) |	RECIEVED POWER(dBm) |
