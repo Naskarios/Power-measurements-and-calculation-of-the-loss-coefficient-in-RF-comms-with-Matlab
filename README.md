@@ -15,7 +15,7 @@ The *measurement procedure* went as it follows:
 ## II.Loss coefficient estimation
 By using the minimun square method via the __polyfit()__ function in matlab with the distances from do and the corresponding losses as its arguments,we were able to calculate an estimation for the loss coefficient.
 
-After that we used the coefficient in the model shown below and made our plots.The plots can be viewed by running the Matlab code
+After that we used the coefficient in the model shown below and made our plots.The plots can be viewed by running the Matlab code or from the pdf available ![here](https://github.com/Naskarios/Power-measurements-and-calculation-of-the-loss-coefficient-in-RF-comms-with-Matlab/blob/main/untitled.pdf)
 
 
 ![qownnotes-media-VATNzY](https://github.com/Naskarios/Power-measurements-and-calculation-of-the-loss-coefficient-in-RF-comms-with-Matlab/blob/main/qownnotes-media-VATNzY.png)
